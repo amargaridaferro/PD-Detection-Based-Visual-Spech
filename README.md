@@ -2,20 +2,21 @@
 
 # Parkinson's Disease Detection Based On Visual Speech
 
-To use these files is mandatory to have wsl version 2.
+To use these files is mandatory to have wsl on version 2.
 
 Other important versions:
 Python 3
 
 Important commands:
-#sudo apt install python3-pip
 
-#pip install numpy
+- sudo apt install python3-pip
 
-#pip install tqdm
+- pip install numpy
 
-#pip install torch
+- pip install tqdm
 
-#pip install opencv-python
+- pip install torch
 
-#pip install librosa
+- pip install opencv-python
+
+- pip install librosa
