@@ -9,8 +9,13 @@ Python 3
 
 Important commands:
 #sudo apt install python3-pip
+
 #pip install numpy
+
 #pip install tqdm
+
 #pip install torch
+
 #pip install opencv-python
+
 #pip install librosa
