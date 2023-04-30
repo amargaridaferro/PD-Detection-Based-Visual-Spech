@@ -1,10 +1,10 @@
 #!/bin/bash
-
 #########################################################################
 #                                                                       #
-# Script for download YT videos and transcriptions                      #
+# Script for the pre-processing PD videos                               #
 # --------------------------------------------------------------------- #
-# Date: June 2022        based on Catarina Botelho work                                              #
+# Date: April 2023       based on Catarina Botelho work                 #
+# Date: April 2023       Ana Margarida Catarino Ferro                   #
 #                                                                       #
 #########################################################################
 
