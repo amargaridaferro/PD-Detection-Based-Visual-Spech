@@ -2,9 +2,10 @@
 
 #########################################################################
 #                                                                       #
-# Script for download YT videos and transcriptions                      #
+# Script for the pre-processing HC videos                               #
 # --------------------------------------------------------------------- #
-# Date: July 2022        based on Catarina Botelho work                                              #
+# Date: April 2023       based on Catarina Botelho work                 #
+# Date: April 2023       Ana Margarida Catarino Ferro                   #
 #                                                                       #
 #########################################################################
 
