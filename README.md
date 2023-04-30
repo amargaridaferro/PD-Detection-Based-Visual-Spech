@@ -7,7 +7,7 @@ To use this files is mandatory to have wsl version 2.
 Other important versions:
 Python 3
 
-Importante commands:
+Important commands:
 #sudo apt install python3-pip
 #pip install numpy
 #pip install tqdm
