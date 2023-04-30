@@ -6,3 +6,11 @@ To use this files is mandatory to have wsl version 2.
 
 Other important versions:
 Python 3
+
+Importante commands:
+#sudo apt install python3-pip
+#pip install numpy
+#pip install tqdm
+#pip install torch
+#pip install opencv-python
+#pip install librosa
