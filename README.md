@@ -24,3 +24,5 @@ Important commands:
 - pip install pandas
 
 - pip install torchvision
+
+- pip install matplotlib
