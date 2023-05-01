@@ -22,3 +22,5 @@ Important commands:
 - pip install librosa
 
 - pip install pandas
+
+- pip install torchvision
