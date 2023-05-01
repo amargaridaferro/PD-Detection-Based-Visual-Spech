@@ -20,3 +20,5 @@ Important commands:
 - pip install opencv-python
 
 - pip install librosa
+
+- pip install pandas
