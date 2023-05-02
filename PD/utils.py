@@ -10,23 +10,23 @@ def arg_parser():
 	parser = argparse.ArgumentParser()
 
 	parser.add_argument('-input_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/vlog_frames/c_001/')
+		default='')
 	parser.add_argument('-faces_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/vlog_main_face/c_001/')
+		default='')
 	parser.add_argument('-landmarks_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/vlog_face_landmark/c_001/')
+		default='')
 	parser.add_argument('-features_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/features/c_001/')
+		default='')
 	parser.add_argument('-bifs_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/bifs/c_001/')
+		default='')
 	parser.add_argument('-embeddings_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/embeddings/c_001/')
+		default='')
 	parser.add_argument('-image_count_file', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/image_count.csv')
+		default='')
 	parser.add_argument('-corrected_faces_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/vlog_main_face_corrected/c_001/')
+		default='')
 	parser.add_argument('-no_backg_faces_dir', 
-		default='/ffs/tmp/mctb/projects/osa_images/data/vlog_main_face_no_backg/c_001/')
+		default='')
 
 	parser.add_argument('-compute_landmarks',
 		dest='compute_landmarks',
