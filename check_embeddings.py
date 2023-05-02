@@ -1,3 +1,5 @@
+# April 2023, Ana Margarida Ferro
+
 import numpy as np
 
 # Load the .npz file
