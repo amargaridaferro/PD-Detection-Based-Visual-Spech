@@ -1,3 +1,5 @@
+#April 2023, based on Catarina Botelho work
+#Ana Margarida Ferro
 import numpy as np
 import math
 
