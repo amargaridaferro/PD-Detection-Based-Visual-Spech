@@ -1,3 +1,6 @@
+#April 2023, based on Catarina Botelho work
+#Ana Margarida Ferro
+
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
