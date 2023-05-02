@@ -1,4 +1,4 @@
-
+# April 2023, Ana Margarida Ferro
 
 def get_sec(time_str):
     """Get seconds from time."""
