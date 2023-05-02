@@ -7,6 +7,8 @@ To use these files is mandatory to have wsl on version 2.
 Other important versions:
 Python 3
 
+Lip reading embeddings were created with the code in this repository https://github.com/mpc001/Lipreading_using_Temporal_Convolutional_Networks
+
 Important commands:
 
 - sudo apt install python3-pip
