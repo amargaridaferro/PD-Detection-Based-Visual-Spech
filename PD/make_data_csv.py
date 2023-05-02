@@ -1,4 +1,6 @@
-# general packages
+#April 2023, based on Catarina Botelho work
+#Ana Margarida Ferro
+
 import numpy as np
 import pandas as pd
 import argparse
