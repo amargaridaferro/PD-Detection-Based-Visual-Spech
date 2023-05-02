@@ -1,3 +1,5 @@
+# April 2023, Ana Margarida Ferro
+
 import os
 import csv
 
